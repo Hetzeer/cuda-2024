@@ -1,4 +1,4 @@
-// Copyright (c) 2024 Ilin Maxim
+// Copyright (c) 2025 Ilin Maxim
 #ifndef __GELU_OMP_H
 #define __GELU_OMP_H
 
