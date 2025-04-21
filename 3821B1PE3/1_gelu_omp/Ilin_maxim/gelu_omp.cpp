@@ -1,4 +1,4 @@
-// Copyright (c) 2024 Ilin Maxim
+// Copyright (c) 2025 Ilin Maxim
 #include "gelu_omp.h"
 
 #include <omp.h>
